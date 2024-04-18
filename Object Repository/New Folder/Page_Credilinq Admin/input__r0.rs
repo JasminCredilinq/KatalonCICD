@@ -6,12 +6,11 @@
    <elementGuidId>37328ebf-25d4-41d7-9c02-f74882cd8655</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@id=':r1:']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id=':r0:']</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e23275ed-f6e6-4a51-a8bf-128a45e548f8</webElementGuid>
+      <webElementGuid>737a7aa0-5bae-4e9b-a695-dd846c3e705e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>805a8d9e-ead7-4522-8069-b44ca8ae315c</webElementGuid>
+      <webElementGuid>5b4f5800-1171-4946-be22-01442c4308e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:r0:</value>
-      <webElementGuid>81c585ff-a955-4813-8632-3e2bb0a811b3</webElementGuid>
+      <webElementGuid>5f27a299-a367-4c68-8a78-a842eb4877e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>admin@credilinq.ai</value>
-      <webElementGuid>e796fabf-a9cb-42b9-80e9-04a5aed9c2ed</webElementGuid>
+      <webElementGuid>b71448f5-c77b-4896-ab93-00e3cc9bde13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d128511b-1b05-40a9-81c9-a3d34346563d</webElementGuid>
+      <webElementGuid>bdc7ad79-a013-470f-8874-e5daaec6ddd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputSizeSmall css-15o0q9g</value>
-      <webElementGuid>00a875fc-8052-482f-a36c-88c44ed71f82</webElementGuid>
+      <webElementGuid>f8edb418-87d4-4a11-ac17-c638ba4be9ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:r0:&quot;)</value>
-      <webElementGuid>5f29fbd7-95e9-4ddf-b12a-9c70bea132f6</webElementGuid>
+      <webElementGuid>2a00ef51-dcf7-4a42-8c00-91efa91ea66d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id=':r0:']</value>
-      <webElementGuid>474b7532-bb17-4199-a75e-8f7ee6bc12ce</webElementGuid>
+      <webElementGuid>5ca96399-a78a-4a04-a013-26c92863e651</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[2]/div/div/form/div/div/div/input</value>
-      <webElementGuid>8d557641-fc16-4b6f-b716-1efa2af36316</webElementGuid>
+      <webElementGuid>559bfacd-7880-481f-b761-7d74fe137fb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>7028faf1-ef3f-4d0a-a2c5-802b5518c99b</webElementGuid>
+      <webElementGuid>6b9fd221-51d5-42c8-96c7-d002817ac86d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = ':r0:' and @placeholder = 'admin@credilinq.ai' and @type = 'text']</value>
-      <webElementGuid>3966e6db-b61a-4b1c-b524-ee9f82be3b4c</webElementGuid>
+      <webElementGuid>cb239ea0-25ff-4222-bb9d-9284a9bc1056</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="1.085" tests="0" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="0" failures="0" errors="0" time="1.085" skipped="0" timestamp="18-04-2024T17:13:06" hostname="JASMIN$ - jasmin" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Jasmin Bhadani\\git\\KatalonCICD\\Reports\\20240418_171258\\New Test Suite\\20240418_171303"/>
+         <property name="logFiles" value="C:\\Users\\Jasmin Bhadani\\git\\KatalonCICD\\Reports\\20240418_171258\\New Test Suite\\20240418_171303\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="JASMIN$ - jasmin"/>
+         <property name="hostAddress" value="192.168.1.5"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+      </properties>
+      <system-out><![CDATA[18-04-2024T17:13:06 - [TEST_SUITE][PASSED] - New Test Suite: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
